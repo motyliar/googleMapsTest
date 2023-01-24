@@ -1,0 +1,31 @@
+{
+    "markers": [
+        {
+            "id": "1",
+            "ltg": "52.4948",
+            "lng": "17.3108",
+            "icon": "true",
+            "icon2": "true",
+            "infoTitle": "Nowa Ziemia",
+            "onTap": "NowaZiemia"
+        },
+        {
+            "id": "1",
+            "ltg": "52.3608",
+            "lng": "16.6846",
+            "icon": "true",
+            "icon2": "true",
+            "infoTitle": "Nowa Ziemia",
+            "onTap": "Karpacz"
+        },
+        {
+            "id": "1",
+            "ltg": "52.2332",
+            "lng": "17.0911",
+            "icon": "true",
+            "icon2": "true",
+            "infoTitle": "Nowa Ziemia",
+            "onTap": "Wiezyca"
+        }
+    ]
+}
